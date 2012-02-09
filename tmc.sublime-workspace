@@ -1,0 +1,520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gri",
+				"gridSystem"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"su",
+				"subsection"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/LESS.sublime-build",
+	"command_palette":
+	{
+		"height": 117.0,
+		"selected_items":
+		[
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"mer",
+				"Git: Merge Branch"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"stat",
+				"View: Toggle Status Bar"
+			],
+			[
+				"statu",
+				"View: Toggle Status Bar"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"st",
+				"Git: Status"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"package",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"isabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"git co",
+				"Git: Quick Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"vala",
+				"Set Syntax: Vala"
+			],
+			[
+				"grap",
+				"Git: Graph All"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"jav",
+				"Set Syntax: Java"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"multi",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"late",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview Current File"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview Current File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 132.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/hawken/Dropbox/sites/bmc/index.html",
+		"/home/hawken/Dropbox/sites/bmc/html/bronze.html",
+		"/home/hawken/Dropbox/sites/bmc/html/contact.html",
+		"/home/hawken/Dropbox/sites/bmc/html/double_bronze.html",
+		"/home/hawken/Dropbox/sites/bmc/html/double_bronze_gallery_0.html",
+		"/home/hawken/Dropbox/sites/bmc/html/double_bronze_gallery_1.html",
+		"/home/hawken/Dropbox/sites/bmc/html/double_bronze_gallery_2.html",
+		"/home/hawken/Dropbox/sites/bmc/html/double_bronze_gallery_3.html",
+		"/home/hawken/Dropbox/sites/bmc/html/double_bronze_gallery_4.html",
+		"/home/hawken/Dropbox/sites/bmc/html/famous_graves.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_0.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_1.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_10.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_11.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_12.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_13.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_14.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_15.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_16.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_17.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_18.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_19.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_2.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_20.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_21.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_22.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_23.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_24.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_25.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_26.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_27.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_28.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_29.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_3.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_30.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_31.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_32.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_33.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_34.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_4.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_5.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_6.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_7.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_8.html",
+		"/home/hawken/Dropbox/sites/bmc/html/granite_gallery_9.html",
+		"/home/hawken/Dropbox/sites/bmc/html/hours.html",
+		"/home/hawken/Dropbox/sites/bmc/html/landscape.html",
+		"/home/hawken/Dropbox/sites/bmc/html/landscape_gallery_0.html",
+		"/home/hawken/Dropbox/sites/bmc/html/landscape_gallery_1.html",
+		"/home/hawken/Dropbox/sites/bmc/html/landscape_gallery_2.html",
+		"/home/hawken/Dropbox/sites/bmc/html/landscape_gallery_3.html",
+		"/home/hawken/Dropbox/sites/bmc/html/landscape_gallery_4.html",
+		"/home/hawken/Dropbox/sites/bmc/html/landscape_gallery_5.html",
+		"/home/hawken/Dropbox/sites/bmc/html/landscape_gallery_6.html",
+		"/home/hawken/Dropbox/sites/bmc/html/links.html",
+		"/home/hawken/Dropbox/sites/bmc/html/signs.html",
+		"/home/hawken/Dropbox/sites/bmc/html/signs_gallery_0.html",
+		"/home/hawken/Dropbox/sites/bmc/html/signs_gallery_1.html",
+		"/home/hawken/Dropbox/sites/bmc/html/signs_gallery_2.html",
+		"/home/hawken/Dropbox/sites/bmc/html/signs_gallery_3.html",
+		"/home/hawken/Dropbox/sites/bmc/html/single_bronze.html",
+		"/home/hawken/Dropbox/sites/bmc/html/single_bronze_gallery_0.html",
+		"/home/hawken/Dropbox/sites/bmc/html/single_bronze_gallery_1.html",
+		"/home/hawken/Dropbox/sites/bmc/html/single_bronze_gallery_2.html",
+		"/home/hawken/Dropbox/sites/bmc/html/single_bronze_gallery_3.html",
+		"/home/hawken/Dropbox/sites/bmc/html/single_bronze_gallery_4.html",
+		"/home/hawken/Dropbox/sites/bmc/html/statuary.html",
+		"/media/Data/Youth Sunday 2012/Order of Service/HTML Attempt/bt.less",
+		"/media/Data/Youth Sunday 2012/Order of Service/HTML Attempt/index.html",
+		"/media/Data/Youth Sunday 2012/Order of Service/HTML Attempt/less.less",
+		"/home/hawken/projects/amc/bootstrap/less/mixins.less",
+		"/home/hawken/Dropbox/Activities/All Souls Unitarian Church/Youth Sunday/Youth Sunday 2012/Order of Service/HTML Attempt/less/mixins.less",
+		"/home/hawken/Dropbox/Activities/All Souls Unitarian Church/Youth Sunday/Youth Sunday 2012/Order of Service/HTML Attempt/bootstrap.less",
+		"/home/hawken/Dropbox/Activities/All Souls Unitarian Church/Youth Sunday/Youth Sunday 2012/Order of Service/HTML Attempt/less/reset.less",
+		"/home/hawken/Dropbox/Activities/All Souls Unitarian Church/Youth Sunday/Youth Sunday 2012/Order of Service/HTML Attempt/less/utilities.less",
+		"/home/hawken/Dropbox/Activities/All Souls Unitarian Church/Youth Sunday/Youth Sunday 2012/Order of Service/HTML Attempt/less/type.less",
+		"/home/hawken/Dropbox/Activities/All Souls Unitarian Church/Youth Sunday/Youth Sunday 2012/Order of Service/HTML Attempt/less/tables.less",
+		"/home/hawken/Dropbox/Activities/All Souls Unitarian Church/Youth Sunday/Youth Sunday 2012/Order of Service/HTML Attempt/less/variables.less",
+		"/home/hawken/Dropbox/Activities/All Souls Unitarian Church/Youth Sunday/Youth Sunday 2012/Order of Service/HTML Attempt/less/scaffolding.less",
+		"/home/hawken/Dropbox/Activities/All Souls Unitarian Church/Youth Sunday/Youth Sunday 2012/Order of Service/HTML Attempt/less/layouts.less",
+		"/home/hawken/Dropbox/Activities/All Souls Unitarian Church/Youth Sunday/Youth Sunday 2012/Order of Service/HTML Attempt/less/grid.less",
+		"/home/hawken/Dropbox/Activities/All Souls Unitarian Church/Youth Sunday/Youth Sunday 2012/Order of Service/HTML Attempt/less/code.less",
+		"/home/hawken/.config/sublime-text-2/Packages/User/LESS.sublime-build",
+		"/home/hawken/.config/sublime-text-2/Packages/Java/JavaC.sublime-build",
+		"/home/hawken/Dropbox/Activities/All Souls Unitarian Church/Youth Sunday/Youth Sunday 2012/Order of Service/HTML Attempt/less/thumbnails.less",
+		"/home/hawken/Dropbox/TU/examInfo/exam1/Exam1Review1.java",
+		"/home/hawken/projects/bmc/assets/scripts/ga.js",
+		"/home/hawken/untitled.mdown",
+		"/etc/sources",
+		"/etc/hosts",
+		"/home/hawken/projects/amc/index.html",
+		"/home/hawken/projects/bmc/index.html",
+		"/home/hawken/Dropbox/TU/classNotes/1-20-2012.markdown",
+		"/home/hawken/Dropbox/TU/classNotes/2-06-2012.markdown",
+		"/home/hawken/Dropbox/TU/Lab 04/README.markdown",
+		"/home/hawken/Dropbox/TU/Lab 01/README.markdown",
+		"/home/hawken/Dropbox/TU/classNotes/1-30-2012.markdown",
+		"/home/hawken/Dropbox/TU/Lab 02/lab02.txt",
+		"/home/hawken/Dropbox/Eagle Project/workbook-2012.markdown",
+		"/etc/apt/sources.list",
+		"/home/hawken/projects/amc/analytics.js",
+		"/home/hawken/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/hawken/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/hawken/Dropbox/TU/classNotes/1-23-2012.mdown",
+		"/home/hawken/Dropbox/TU/classNotes/1-18-2012.markdown",
+		"/home/hawken/Dropbox/TU/classNotes/1-16-2012.markdown",
+		"/home/hawken/Dropbox/TU/classNotes/1-13-2012.markdown",
+		"/home/hawken/Dropbox/TU/classNotes/1-11-2012.markdown",
+		"/home/hawken/Dropbox/TU/classNotes/1-09-2012.markdown",
+		"/home/hawken/Documents/hello.tex",
+		"/home/hawken/Documents/hello.log",
+		"/home/hawken/Documents/youth sunday 2011/foreverYoung.tex",
+		"/home/hawken/Documents/ys2012/forever_young.tex",
+		"/home/hawken/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/hawken/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/hawken/Videos/TV Shows/Big Bad BeetleBorgs/Big Bad Beetleborgs.xspf",
+		"/home/hawken/Documents/youth sunday 2011/ctw/invocation.txt",
+		"/home/hawken/Documents/youth sunday 2011/ctw/doxology.txt",
+		"/home/hawken/Documents/youth sunday 2011/ctw/call to worship.txt",
+		"/home/hawken/Documents/foreverYoung.tex",
+		"/home/hawken/.config/sublime-text-2/Packages/Default/Default (Windows).sublime-keymap",
+		"/home/hawken/.config/sublime-text-2/Packages/Prevu/Prevu.sublime-settings",
+		"/home/hawken/.config/sublime-text-2/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/hawken/Documents/ys2012/seniors.markdown",
+		"/home/hawken/Documents/hello.aux",
+		"/home/hawken/.config/sublime-text-2/Packages/Abacus/Default (OSX).sublime-keymap",
+		"/home/hawken/.config/sublime-text-2/Packages/Abacus/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"gau",
+			"<script src=\"assets/scripts/gauge.js\"></script>",
+			"<script src=\"assets/scripts/ga.js\" async defer></script>",
+			"&mdash;",
+			"<p class=\"lyrics\">",
+			"<p class=\"lyrics onecolumn\">",
+			".border-radius(",
+			"clear",
+			"div",
+			"<header>",
+			"”",
+			"“",
+			"”",
+			"“",
+			"______________",
+			"unity",
+			"oneiric",
+			"ctrl+t",
+			"n>\\n  ",
+			">\\n   ",
+			"education",
+			"ctrl+alt",
+			"line",
+			"move",
+			"scroll"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<script src=\"assets/scripts/gau.ges.js\"></script>",
+			"<script src=\"assets/scripts/ga.js\"></script>\\n<script src=\"assets/scripts/gauge.js\"></script>",
+			"<script src=\"assets/scripts/ga.js\"></script>\\n<script src=\"assets/scripts/.js\"></script>",
+			"<script src=\"assets/scripts/ga.js\"></script>\\n<script src=\"assets/scripts/gauge.js\"></script>",
+			"—",
+			"<blockquote class=\"lyrics\">\n					<p>",
+			"<blockquote class=\"lyrics onecolumn\">\n					<p>",
+			"border-radius: ",
+			"<header class=\"title\">",
+			"\"",
+			"",
+			"precise",
+			"n> ",
+			"> "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
